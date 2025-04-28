@@ -1,0 +1,34 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_544FCD1A_77E1_8295_41C6_2D5AAB47AE09.label = Gedung FUA
+panorama_555B374B_77E2_8E8A_41B1_A74C15A640E0.label = Information Desk - Lantai 1
+panorama_56EB8DC2_77E2_FDFA_41CF_7ADFC79C399F.label = Ruang Dekan - Lantai 1
+panorama_56EB6F31_77E2_BE96_41B9_D90AE88CF9F4.label = Ruang Kelas 1 - Lantai 2
+panorama_56E8F9A7_77E1_85BB_41D8_0061A9865581.label = Ruang Kelas 1 - Lantai 3
+panorama_56EB463B_77E2_8E8B_41DA_F2268CC1227B.label = Ruang Kelas 2 - Lantai 2
+panorama_56EB1877_77E2_829B_41AE_C640A8DEE26E.label = Ruang Kelas 2 - Lantai 3
+panorama_56EB0C38_77E2_8295_41C9_5CCA601EC846.label = Ruang Kelas 3 - Lantai 2
+panorama_56EB2E30_77E2_7E96_41D2_52AFDCF1B3F8.label = Ruang Kelas 3 - Lantai 3
+panorama_56EB529B_77E2_878A_41C8_B2559D93DFBF.label = Ruang Kelas 4 - Lantai 2
+panorama_56E903EA_77E1_858A_418A_253C725642D3.label = Ruang Kelas 4 - Lantai 3
+panorama_56EBB7F9_77E2_8D96_41CC_4E692691B5DC.label = Ruang Rapat - Lantai 1
+panorama_56EC67AE_77E2_8D8A_41CE_3E5C3D5ED822.label = Ruang Smartclass - Lantai 1
+panorama_56EBA1AD_77E2_858E_41B6_A76839A61D31.label = Ruang Tata Usaha - Lantai 1
+panorama_56EBA402_77E2_827A_41B4_2AFF22987143.label = Ruang Wadek 1 - Lantai 1
+panorama_56EB4B4D_77E2_868E_41CE_AFBCB4F5794C.label = Ruang Wadek 2 - Lantai 1
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Gedung FUA

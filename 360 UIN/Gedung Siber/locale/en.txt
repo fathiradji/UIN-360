@@ -1,0 +1,49 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_52FC4537_7967_826F_41BA_F0C82EE56EAC.label = Auditorium
+panorama_52FCD956_7966_822E_41DA_65E04CD7CE02.label = Conference
+panorama_52FFD38B_7966_8627_4194_8D50FE075745.label = Data Center
+panorama_53522B4A_7966_8621_41DA_C03921C15274.label = Gedung Siber
+panorama_52FF2665_7966_8EE3_41C8_5D9BEE528918.label = HYBRI International Smart Class
+panorama_52FC7D77_7967_82EF_41B4_966251F8294B.label = International Conference
+panorama_52FD205E_7967_82DE_41C6_A43A27AF4740.label = International Office
+panorama_52FDDE37_7967_FE6E_41DC_C87672C9A6B4.label = LAB INFORMATIKA 1
+panorama_52FDF5E6_7967_8DEE_41C1_0BB5A088C210.label = LAB INFROMATIKA 2
+panorama_52FF86B8_7966_8E61_41D2_40AA6FED3E40.label = Lobby
+panorama_52FF73A3_7966_8667_41D2_7BC386B8CB62.label = Mushola
+panorama_52FDBD69_7967_82E3_41C2_8D613592054F.label = OFFICE PIPD
+panorama_52FCD369_7966_86E3_41CA_EFAA48166F8C.label = Perpustakaan Digital
+panorama_52E23A7B_7966_86E6_41CE_186A306F4C01.label = Ruang Administrasi
+panorama_52FFA098_7966_8222_41C4_2A35D3553CB3.label = Ruang Admisi
+panorama_52FD4755_7967_8E22_418F_C8CD0D5A777F.label = Ruang Audio Dubbing
+panorama_52FD55A8_7967_8262_41DC_3863A839C1B8.label = Ruang Editor
+panorama_52FD8E9F_7967_9E5F_41C1_589A09B4D3B3.label = Ruang Modul
+panorama_52FF803D_7966_8262_41D0_381A7D04CB96.label = Ruang PRODI PJJ
+panorama_52FD9DC1_7967_8223_40DA_645323F62480.label = Ruang Podcast 1
+panorama_52FDD667_7967_8EEE_41CD_C5C984D4B0AD.label = Ruang Podcast 3
+panorama_52FF8723_7966_8E67_41D1_023D1E8BC14D.label = Ruang Rapat
+panorama_52FFBCD7_7966_822E_41A9_96E05F47B911.label = Ruang Rektor
+panorama_52FF89CC_7966_8221_4197_F9D090AFE99C.label = Ruang WAREK 1 2 3
+panorama_52FF5046_7966_8221_41DC_D2C10ACA283B.label = Smart Class
+panorama_52FF19A0_7966_8262_419B_EEF37638EA72.label = Studio Conference
+panorama_52FF2CD7_7966_822F_41A0_46ECFAFC967B.label = Studio Konten
+panorama_52FC4DE8_7967_9DE1_41D5_551FFCB6C260.label = Studio Live Event 1
+panorama_52FDB5CA_7967_8221_41BA_512A14D402A4.label = Studio Live Event 2
+panorama_52FDB57B_7967_82E7_41C3_374CAA36822E.label = Studio Pembelajaran 1
+panorama_52FF5D53_7966_8227_41A4_15DA7427D9E7.label = UPT PJJ
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Gedung Siber

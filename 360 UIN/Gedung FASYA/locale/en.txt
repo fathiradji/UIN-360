@@ -1,0 +1,31 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_4B2CE1BF_79A6_8260_41A2_938A2768FBF8.label = Gedung Fasya
+panorama_698D29C6_77E2_85AD_41CF_82CFD2EFD13B.label = Information Desk - Lantai 1
+panorama_6AD5798C_77E2_85BC_41C4_C85CA5381B08.label = Mushola - Lantai 1
+panorama_6AD0E6FD_77E2_8F5F_41DA_91D946A23A89.label = Ruang Dekan - Lantai 1
+panorama_6AD53F88_77E2_9DA4_41D7_CC465CF154DC.label = Ruang Kajur Sekjur - Lantai 1
+panorama_6AD503FA_77E2_8564_41D0_589B5C17C66A.label = Ruang Kelas 1 - Lantai 2
+panorama_6AD4F07B_77E2_8364_41CD_C6A1D2F31D45.label = Ruang Kelas 1 - Lantai 3
+panorama_6AD4DA2B_77E2_86E4_41D0_089088561A69.label = Ruang Kelas 2 - Lantai 2
+panorama_6AD516A2_77E2_8FE4_41C0_F512F806A3F0.label = Ruang Serbaguna - Lantai 2
+panorama_6AD4FD25_77E2_82ED_41D8_FBA855D1798A.label = Ruang Smartclass - Lantai 2
+panorama_6AD49726_77E2_8EEF_41BA_40692C7085EB.label = Ruang Tendik & Staff - Lantai 1
+panorama_6AD5DD1C_77E2_82DC_41D6_5CEBDC7E06EB.label = Ruang Wadek 1 - Lantai 1
+panorama_6AD56394_77E2_85AC_41C6_6A5FC44B5968.label = Ruang Wadek 2 - Lantai 1
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Gedung Fasya

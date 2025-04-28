@@ -1,0 +1,36 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_6DE16FF0_757A_4961_41CD_0BEE0EA7FCEB.label = Akademik Kampus - Lantai 1
+panorama_4D549C60_79BF_82E0_41D4_2A69B5B956DC.label = Gedung Rektorat
+panorama_6DE1A535_757A_BEE3_41AE_E87D64E53B27.label = Humas - Lantai 1
+panorama_6D77AB44_757A_4AA1_41CB_38F337B14091.label = Information Desk - Lantai 1
+panorama_6DEC19C6_757A_49A1_41C6_4C58C2E8D1EA.label = Lobby - Lantai 1
+panorama_6DE18036_757A_D6E1_41D6_A795747A430F.label = Ruang Aspri Rektor - Lantai 2
+panorama_6DE09FEA_757A_4961_41DC_D9F8294B1367.label = Ruang Bagian Umum - Lantai 1
+panorama_6DE08540_757A_5EA2_4193_D3F9E1DA52CE.label = Ruang Kepegawaian - Lantai 1
+panorama_6DE1DA7B_757A_CB66_41D3_37B7D19F8815.label = Ruang Keuangan - Lantai 2
+panorama_6DE1BFD1_757A_C9A2_41CF_A92F22DD16CF.label = Ruang Perencanaan - Lantai 2
+panorama_6DE09A5F_757A_4B5F_41A3_D249DC0E195E.label = Ruang Rapat - Lantai 1
+panorama_6DE1CB1D_757A_CAA3_41B0_466464366434.label = Ruang Rapat Rektorat - Lantai 3
+panorama_6DE115A5_757A_D9E3_41AA_D75A6198C416.label = Ruang Rapat Senat - Lantai 2
+panorama_6DE1DFAD_757A_C9E3_41C0_5EC6F3BB184C.label = Ruang Rektor - Lantai 2
+panorama_6DE1C508_757A_DEA1_41B4_DC997B843116.label = Ruang Warek 1 A - Lantai 2
+panorama_6DE18A5E_757A_CAA1_41D4_6E1F5654C324.label = Ruang Warek 1 B - Lantai 2
+panorama_6DE18558_757A_FEA1_418B_AF6F6E001778.label = Ruang Warek 2 - Lantai 2
+panorama_6DE1FAF0_757A_CB61_41D0_0A7858604AE4.label = Ruang Warek 3 - Lantai 2
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Gedung Rektorat

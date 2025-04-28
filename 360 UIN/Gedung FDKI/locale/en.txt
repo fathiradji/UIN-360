@@ -1,0 +1,37 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_5790094F_77FF_8296_41D1_68D95E2914AC.label = Auditorium - Lantai 4
+panorama_56A36C43_77FE_828C_41DD_9ED2C0A27CD2.label = Gedung FDKI
+panorama_56FE8B24_77FE_868B_41D5_13AD64657DFA.label = Information Desk - Lantai 1
+panorama_5791E77F_77FF_8D75_41CD_285310554602.label = Jurusan BKI - Lantai 2
+panorama_5791DD5D_77FF_82B5_41B1_4DDE1E855060.label = Jurusan PMI dan PKI - Lantai 2
+panorama_579181EF_77FF_8595_41D2_48A6E6F2791F.label = Lab BKI - Lantai 1
+panorama_5791C512_77FF_828F_41D5_296E6CADD37E.label = Lab Inovasi Sosial - Lantai 1
+panorama_5791C83F_77FF_82F5_41C0_A47A2369F087.label = Lab KPI - Lantai 1
+panorama_57900C06_77FF_8297_41C1_6FB8EDA16102.label = Lab Multimedia Komunikasi - Lantai X
+panorama_5791AE7E_77FF_9F77_41D3_FFC8784F24C4.label = Lab Sosiologi Agama - Lantai 1
+panorama_57902194_77FF_858A_41DA_4EC9775864D9.label = Perpustakaan - Lantai 2
+panorama_57906B5A_77FE_86BF_41AD_A46010219E29.label = Ruang Akademik - Lantai 1
+panorama_57AF7941_77FE_828D_41D6_31DE0D5D53A8.label = Ruang Dekan - Lantai 1
+panorama_5791AB40_77FF_868B_41B3_3E86B192633C.label = Ruang Kelas 1 - Lantai 2
+panorama_57901FC9_77FF_FD9A_41A5_747CAB1A31D0.label = Ruang Kelas 1 - Lantai 4
+panorama_579015D5_77FF_8DB5_41D2_32815ADF24EF.label = Ruang Kelas 6 - Lantai 4
+panorama_5791F337_77FF_86F5_41B0_C572B4A258A0.label = Ruang Sidang - Lantai 3
+panorama_57909F45_77FE_9E95_41C3_505E8DF6BC8F.label = Ruang Wadek 1 - Lantai 1
+panorama_5790A553_77FE_828D_41C9_8C6E03454C5B.label = Ruang Wadek 2 - Lantai 1
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Gedung FDKI

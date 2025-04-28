@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #333;
+  }
+  
+  header {
+    background: #f5f5f5;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  main {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #444;
+  }
+  
+  .campus-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  .campus-list li {
+    margin: 10px 0;
+  }
+  
+  .campus-list li a {
+    text-decoration: none;
+    color: #3498db;
+  }
+  
+  .image-links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 40px 20px;
+  }
+  
+  .image-card {
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+    width: 300px;
+    transition: transform 0.2s ease;
+  }
+  
+  .image-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .image-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .title {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .title.red {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .link-container {
+    display: flex;
+    gap: 24px;
+  }

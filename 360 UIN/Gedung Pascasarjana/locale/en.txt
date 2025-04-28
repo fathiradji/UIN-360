@@ -1,0 +1,55 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_53712073_7761_82DD_419F_1A3BA1C5E25C.label = Auditorium
+panorama_51EB3444_7761_823B_41DC_FFB8BD2959AD.label = Auditorium B
+panorama_4815E8BA_79A2_8260_41DE_0E648A7B8407.label = Gedung Pascasarjana
+panorama_53729F1C_7762_9E4A_41DA_171AACD1EAE6.label = Information Desk
+panorama_5372B4E7_7762_83C6_41C2_D0A957A975AD.label = Kelas 2A_1
+panorama_5372D6AC_7762_8E4A_41C0_796E30E2B224.label = Kelas 2D_2
+panorama_537222B7_7762_8646_41D9_8D2AF6C245CE.label = Kelas A_2 - Lantai 1B
+panorama_5373D122_7762_827E_41D9_AE3B8E4B8B4E.label = Kelas A_2 - Lantai 2B
+panorama_53721E2E_7762_FE46_41A2_ABCB9464E07D.label = Kelas B_2 - Lantai 1B
+panorama_5373AD50_7762_82DA_41C7_347789DACE41.label = Kelas B_2 - Lantai 2B
+panorama_537229E6_7762_85C6_41C4_836B06B431DC.label = Kelas C_2 - Lantai 1B
+panorama_537388F7_7762_83C6_41CF_5FFAF223A61D.label = Kelas C_2 - Lantai 2B
+panorama_5373F58D_7762_824A_41B0_450B58EB29DE.label = Kelas D_2 - Lantai 1B
+panorama_537284E2_7763_83FE_41BB_90207F9C0009.label = Kelas D_2 - Lantai 2B
+panorama_5372F141_7763_823A_41DD_9A83D79A622B.label = Kelas E_2 - Lantai 2B
+panorama_5372BD8D_7763_824A_41C4_450C958BB2D9.label = Lobby - Lantai 1
+panorama_5372938A_7763_864E_41C7_954330DAEB68.label = Lobby - Lantai 1B
+panorama_5372CB60_7763_86F9_41C1_12B718F39618.label = Lobby - Lantai 3
+panorama_5372871D_7763_8E4A_41B0_97159195AB8B.label = Lobby Direktur
+panorama_5372FF76_7763_9EC6_4196_C0DC9FC15571.label = Lobby Pasca
+panorama_537500F5_7763_83DA_4151_B5F03CBE91C8.label = Lorong - Lantai 2B
+panorama_53729739_7763_8E4A_41DB_B236C1E9AD85.label = Lorong Auditorium
+panorama_537518FF_7763_83C6_41C6_BABDBE0E5C10.label = Lorong_1 - Lantai 2
+panorama_537514FA_7763_83CE_41D2_88A4925318AC.label = Lorong_2 - Lantai 2
+panorama_5375FCCD_7763_83CA_41C9_621332CC84EC.label = Mushola
+panorama_5375F2A9_7762_864A_41D0_77B88538E7CF.label = Perpustakaan_1
+panorama_53751E94_7762_9E5A_41D7_E75E23AF3640.label = Perpustakaan_2
+panorama_53755039_7762_824A_418C_E115734B4AA8.label = Perpustakaan_3
+panorama_53754645_7762_8E3A_41D9_01B1F43C6B3A.label = R. Akademik
+panorama_53757271_7762_86DA_41CB_4ADB429573A1.label = R. Direktur
+panorama_5374949D_7762_824B_41C7_C57C8BC91772.label = R. Guru Besar
+panorama_5374510C_7762_8249_41AB_403B977DA0C7.label = R. KAPRODI S2
+panorama_53748D07_7762_8246_41D6_A860F6CAEE07.label = R. KAPRODI S3
+panorama_53746922_7762_827E_41C2_15D01C8F6D41.label = R. Rapat PJJ
+panorama_53748F64_7762_9EFA_41B8_F935A46F29E3.label = R. Sidang
+panorama_53745C04_7762_8239_41CD_6A39FBDCE2EA.label = R. Wakil Direktur
+panorama_5377EEE6_7761_9FC6_41D8_C39282256A53.label = R. Yudisium
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Gedung Pascasarjana

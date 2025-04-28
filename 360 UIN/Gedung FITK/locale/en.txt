@@ -1,0 +1,49 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_538419CF_7763_85DC_4198_B29D60720446.label = Auditorium - Lantai 5
+panorama_53EF2E7C_7762_BEBD_41CD_E914FCD17904.label = Depan Gedung FITK
+panorama_5385F765_7763_8ECF_41AA_3FCD16C79059.label = Depan Office ELT Department - Lantai 2
+panorama_53844120_7763_8245_41D3_552A1A79E228.label = Depan Office TADRIS IPS - Lantai 4
+panorama_4C205837_79A2_8260_41B8_F56954249FD4.label = Gedung FTIK
+panorama_538518AA_7763_8245_41DB_7342199F9563.label = Mushola - Lantai 1
+panorama_5387BD2E_7762_825C_41D8_AAA83EB10D6D.label = RESEPSIONIS GEDUNG - LANTAI 1
+panorama_5385AACB_7763_87DB_41D1_84F65FA940A0.label = RUANG TBI 1 SMART CLASS - LANTAI 2
+panorama_5383334A_7762_86C5_41D3_8EE713BCEFD3.label = Ruang Akademik_Tata Usaha - Lantai 1
+panorama_53857E86_7763_BE4D_41D6_2325F5B3891A.label = Ruang Arsip - Lantai 1
+panorama_5384F959_7762_82C7_41D4_B753BAAD4C38.label = Ruang Dekan - Lantai 1
+panorama_5384F34C_7763_86DC_41BA_2D3D8AA93ED8.label = Ruang Dosen TIK - Lantai 5
+panorama_5384DFCC_7762_7DDC_41D7_CAF8F00AFBF7.label = Ruang Jurusan PGMI - Lantai 5
+panorama_53840174_7762_82CD_41CC_27720F621235.label = Ruang Jurusan PIAUD - Lantai 5
+panorama_53843D1C_7763_827D_41BD_124224D7F8AF.label = Ruang Jurusan TIK - Lantai 5
+panorama_5385B907_7763_824B_41BA_59735EA69703.label = Ruang Kantor PBA - Lantai 3
+panorama_53879730_7762_8E45_41CA_593893AFD7D5.label = Ruang Kantor PPG - Lantai 5
+panorama_53846EF7_7763_9FCC_41D0_DFFBC1E53E70.label = Ruang Kelas IPS 2 - Lantai 3
+panorama_5384431D_7763_867C_41DB_EBFEBF037FA2.label = Ruang Kelas PBA 1 - Lantai 3
+panorama_53846B45_7763_86CF_41CF_4412FD02CC9C.label = Ruang Kelas PGMI 3 - Lantai 4
+panorama_538454E2_7763_83C5_41D0_7791C4D98214.label = Ruang Kelas PIAUD 4 - Lantai 4
+panorama_53844B94_7762_864C_41D9_8528D7B5CB16.label = Ruang MUNAQOSAH - lantai 5
+panorama_53858D31_7763_8244_41CB_E324793B25F8.label = Ruang Office ELT Departemen - Lantai 2
+panorama_538456FD_7763_8FBC_41C9_EB6E15762D06.label = Ruang Office TADRIS IPS - Lantai 4
+panorama_53850258_7763_86C5_41D7_335D35FB7518.label = Ruang Rapat Dekan - Lantai 1
+panorama_538415D8_7762_8DC4_41CD_418FB56830E9.label = Ruang Rapat Dosen - Lantai 5
+panorama_53856105_7763_824C_41C3_2EE3292EDED1.label = Ruang TBI 7 Ruang Kelas - Lantai 2
+panorama_53832F8A_7762_7E44_41AC_82739FF00D57.label = Ruang WADEK 1 - Lantai 1
+panorama_5382F5D8_7763_8DC5_419E_C1791ED89D2E.label = Ruang WADEK 2 - Lantai 1
+panorama_53851C7D_7763_82BF_41C5_642D51D53DD4.label = Ruang WADEK 3 - Lantai 1
+panorama_53850464_7763_82CC_41BC_A2C2C80D6904.label = Taman - Lantai 1
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Gedung FITK
